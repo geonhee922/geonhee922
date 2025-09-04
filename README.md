@@ -1,14 +1,64 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
+<img src=
+      "https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0"
+      width="100%" height="auto"/>
 
-## About me
+<div align="center">
 
-- 한건희
-- 화성반월고등학교 졸업생
-- 한신대학교 AI.SW 계열생
+# 👋 안녕하세요, 한건희입니다.
 
-<p align="center">
+<p>AI와 소프트웨어 개발에 열정을 가진 학생 개발자입니다.</p>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+</div>
 
-</p>
+---
+ 
+ ### 👨‍**About Me**
+ 
+- 🎓 **소속:** 한신대학교 AI.SW 계열
+- 🌱 **관심 분야:** [여기에 관심 분야를 입력하세요. 예: 머신러닝, 웹 프론트엔드, 데이터 분석 등]
+- 💡 **목표:** [여기에 자신의 목표나 포부를 입력하세요. 예: 사람들에게 도움이 되는 AI 서비스를 만드는 것]
 
+---
+
+### 🛠️**Skills**
+
+ *   **Languages:**
+`[여기에 사용 가능한 프로그래밍 언어를 입력하세요]`
+*   **Frameworks & Libraries:**
+`[여기에 다룰 수 있는 프레임워크나 라이브러리를 입력하세요]`
+*   **Tools:**
+`[여기에 사용할 수 있는 개발 도구를 입력하세요. 예: Git, Docker, VS Code]`
+*   **Certificates:**
+`[여기에 취득한 자격증을 입력하세요]`
+ 
+---
+
+### 🚀 **Projects**
+ 
+*   **프로젝트 1: [프로젝트 이름]**
+*   **설명:** `[여기에 프로젝트에 대한 간단한 설명을 입력하세요]`
+*   **역할:** `[여기에 자신의 역할을 입력하세요]`
+*   **기술 스택:** `[사용한 기술 스택을 입력하세요]`
+*   **결과/배운 점:** `[프로젝트를 통해 얻은 결과나 배운 점을 입력하세요]`
+ *   **링크:** `[GitHub 리포지토리나 배포된 서비스 링크를 입력하세요]`
+ 
+*   **프로젝트 2: [프로젝트 이름]**
+*   **설명:** `[여기에 프로젝트에 대한 간단한 설명을 입력하세요]`
+*   **역할:** `[여기에 자신의 역할을 입력하세요]`
+*   **기술 스택:** `[사용한 기술 스택을 입력하세요]`
+*   **결과/배운 점:** `[프로젝트를 통해 얻은 결과나 배운 점을 입력하세요]`
+*   **링크:** `[GitHub 리포지토리나 배포된 서비스 링크를 입력하세요]`
+ 
+ ---
+ 
+### 📫 **Contact**
+
+- 📧 **Email:** `[이메일 주소를 입력하세요]`
+- 깃허브: `[GitHub 프로필 주소를 입력하세요]`
+- 블로그: `[운영 중인 블로그가 있다면 주소를 입력하세요]`
+
+---
+
+<img src=
+      "https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" 
+      width="100%"/>
